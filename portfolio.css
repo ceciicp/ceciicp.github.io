@@ -73,10 +73,10 @@ a:hover{color: #d245df;
 }
 
 tbody{
-    background-color: #3ba7ff97;
+    background-color: rgb(224, 224, 79);
     text-align: left;}
 
-thead {background-color: hsla(274, 86%, 49%, 0.934);
+thead {background-color: yellow;
     text-align: center;}
 
-td:hover {background-color: hsla(274, 86%, 49%, 0.41);}
+td:hover {background-color: hsl(322, 86%, 49%);}
